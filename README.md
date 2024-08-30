@@ -36,6 +36,9 @@ I have over 15 IT & Cybersecurity related certifications related to network, app
 - **CompTIA CASP+**
 - **CompTIA CSAP/ CNSP/ CNVP/ CCAP/ CSCP**
 
+**Credly Certifications**: [Sedric Louissaint on Credly](https://www.credly.com/users/sedric-louissaint)
+
+
 
 ## 🎓 Education
 
