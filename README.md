@@ -55,7 +55,7 @@ I have over 15 IT & Cybersecurity related certifications related to network, app
 - **Hardware Hacking (Gray Hat Academy)**
 
 
-## 🏆 Achievements / WriteUps
+## 🏆 Achievements / Write Ups
 
 - **10+ CVEs**: Responsible for identifying and reporting over 10 Common Vulnerabilities and Exposures (CVEs).
 - **100+ Zero-Day Vulnerabilities**: Discovered and responsibly disclosed over 100 zero-day vulnerabilities.
