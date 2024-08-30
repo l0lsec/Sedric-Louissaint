@@ -25,7 +25,7 @@ I have over 15 IT & Cybersecurity related certifications related to network, app
 ## 📜 Certifications
 
 - **ISC2 Certified Information Systems Security Professional - CISSP**
-- **Cisco CCNA**
+- **Cisco Certified Network Associate**
 - **CompTIA Secure Infrastructure Expert – CSIE**
 - **CompTIA Security Analytics Expert – CSAE**
 - **CompTIA Network+**
