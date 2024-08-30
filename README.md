@@ -66,11 +66,12 @@ I have over 15 IT & Cybersecurity related certifications related to network, app
 - **Understanding the Importance of API Security**: [Understanding the Importance of API Security](https://sedriclouissaint.com/blog-1/f/understanding-the-importance-of-api-security)
 
 
-## 🔗 Get in Touch
+## 🔗 Stay or Get in Touch
 
 - **LinkedIn**: [Sedric Louissaint](https://www.linkedin.com/in/sedric-louissaint)
 - **My Blog**: [Sedric's Blog](https://sedriclouissaint.com/blog-1)
-- **Training**: [Cybersecurity Mentorship and Training Program](https://showupshowoutsecurity.com)
+- **Training**: [Cybersecurity Mentorship and Training Program (CMTP)](https://susos.co)
+- **CMTP Blog**: [Cybersecurity Mentorship and Training Program (CMTP) Blog](https://susos.co/blog)
 - **All Links**: [LinkTree](https://linktr.ee/showupshowout)
 
 
