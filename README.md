@@ -55,12 +55,15 @@ I have over 15 IT & Cybersecurity related certifications related to network, app
 - **Hardware Hacking (Gray Hat Academy)**
 
 
-## 🏆 Achievements
+## 🏆 Achievements / WriteUps
 
 - **10+ CVEs**: Responsible for identifying and reporting over 10 Common Vulnerabilities and Exposures (CVEs).
 - **100+ Zero-Day Vulnerabilities**: Discovered and responsibly disclosed over 100 zero-day vulnerabilities.
 - **Mentorship and Training**: Founder of the Cybersecurity Mentorship and Training Program, dedicated to helping aspiring cybersecurity professionals gain the skills and certifications needed to succeed in the industry.
-- **SonicWall Security Hall of Fame**: AuthForce: SonicWall UTM SSO Forced Authentication: CVE-2020-5148
+- **SonicWall Security Hall of Fame**: AuthForce: SonicWall UTM SSO Forced Authentication: [CVE-2020-5148](https://sedriclouissaint.com/blog-1/f/forced-authentication-vulnerability-in-sonicwall-utmsso-agent)
+- **SqlSpark: SQL Injection in TripSpark VEO Transport**: [CVE-2021-3262](https://sedriclouissaint.com/blog-1/f/cve-disclosure-sql-injection-vulnerability-in-tripspot-transport)
+- **SqlNow: SQL Injection in DeliverNow: CVE-2021-26837**: [CVE-2021-26837](https://sedriclouissaint.com/blog-1/f/cve-disclosure-sql-injection-vulnerability-cve-2021-26837)
+- **Understanding the Importance of API Security**: [Understanding the Importance of API Security](https://sedriclouissaint.com/blog-1/f/understanding-the-importance-of-api-security)
 
 
 ## 🔗 Get in Touch
